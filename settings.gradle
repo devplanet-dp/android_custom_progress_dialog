@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='custome_progress_dialog'
+rootProject.name='custom_progress_dialog'
